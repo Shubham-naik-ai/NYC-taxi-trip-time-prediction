@@ -1,7 +1,6 @@
 # NYC-taxi-trip-time-prediction
 ![image](https://user-images.githubusercontent.com/52554694/184550188-034f12cd-eef5-4933-8d42-a96fb9597985.png)
 
-Let us now discuss about the problem statement for the project.
 # Problem Context:
 
 A typical taxi company faces a common problem of efficiently assigning the cabs to passengers so that the service is smooth and hassle free. One of main issue is determining the duration of the current trip so it can predict when the cab will be free for the next trip.
